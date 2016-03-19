@@ -33,6 +33,9 @@ Form the command line, enter the following <br/>
 
 java -jar pos-tagger.jar \<URL\>
 
+####Sample output
+Sample output of the 4 urls can be found at [TaggedOuput.txt](TaggedOutput.txt)
+
 ####Note
 For URLs with lengthy body texts, the program will give the output but it might take several minutes before you see any output. So please be as patient as possible.
 
